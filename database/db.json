@@ -1,0 +1,49 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "David",
+      "surname": "Nalbandyan",
+      "age": "28",
+      "Country": "Armenia",
+      "Profession": "Engineer",
+      "Status": "Active"
+    },
+    {
+      "id": "2",
+      "name": "Vito",
+      "surname": "Scaletta",
+      "age": "25",
+      "Country": "USA",
+      "Profession": "Persona",
+      "Status": "Active"
+    },
+    {
+      "id": "3",
+      "name": "John",
+      "surname": "Barbaro",
+      "age": "29",
+      "Country": "USA",
+      "Profession": "Persona",
+      "Status": "Inactive"
+    },
+    {
+      "id": "4",
+      "name": "Jeck",
+      "surname": "Johnson",
+      "age": "18",
+      "Country": "Spain",
+      "Profession": "Student",
+      "Status": "Active"
+    },
+    {
+      "id": "5",
+      "name": "Elis",
+      "surname": "Smith",
+      "age": "16",
+      "Country": "French",
+      "Profession": "Student",
+      "Status": "Inactive"
+    }
+  ]
+}
